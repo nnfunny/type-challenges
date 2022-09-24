@@ -1,6 +1,8 @@
-![Typescript Badge](https://img.shields.io/badge/-Typescript-3178c6?logo=TypeScript&logoColor=white) 
-
-My solutions to [Typescript type chanllenges](https://github.com/type-challenges/type-challenges):
+<div align="center">
+  <a href='https://github.com/type-challenges/type-challenges'>
+    <img src="https://img.shields.io/badge/My_Solutions-Typescript_Type_Chanllenges-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript Type Challenges"/>
+  </a>
+</div>
 
 [![Warm up](https://img.shields.io/badge/-Warm_up-teal)](https://github.com/nnfunny/type-challenges/tree/main/warm-up) <br/>
   [![Hello World](https://img.shields.io/badge/-Hello_World-teal?logo=Checkmarx&logoColor=white)](https://github.com/nnfunny/type-challenges/blob/main/warm-up/hello-world.ts)
