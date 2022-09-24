@@ -2,8 +2,8 @@
 
 My solutions to [Typescript type chanllenges](https://github.com/type-challenges/type-challenges):
 
-![Warm up](https://img.shields.io/badge/-Warm_up-teal) <br/>
-  ![Hello World](https://img.shields.io/badge/-Hello_World-teal?logo=Checkmarx&logoColor=white)
+[![Warm up](https://img.shields.io/badge/-Warm_up-teal)](https://github.com/nnfunny/type-challenges/tree/main/warm-up) <br/>
+  [![Hello World](https://img.shields.io/badge/-Hello_World-teal?logo=Checkmarx&logoColor=white)](https://github.com/nnfunny/type-challenges/blob/main/warm-up/hello-world.ts)
 
 ![Easy](https://img.shields.io/badge/-Easy-7aad0c) <br/>
   ![Pick](https://img.shields.io/badge/-Pick-7aad0c)
